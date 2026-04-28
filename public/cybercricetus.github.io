@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
-<head>
-	<meta name="generator" content="Hugo 0.160.1"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <!--
 Made with Book Theme
 https://github.com/alex-shpak/hugo-book
@@ -9,28 +8,25 @@ https://github.com/alex-shpak/hugo-book
 
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="👋 Welcome# This is cybercricetus!
-👨‍💻 About# 🎓 Master CS @ NYU Tandon 🔬 Preference: LLM, RL 📧 Mail me: xm2204@nyu.edu 📚 Navigation# …
-">
+<meta name="description" content="Welcome back!!#">
 <meta name="theme-color" media="(prefers-color-scheme: light)" content="#ffffff">
 <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#2e3440">
-<meta name="color-scheme" content="light dark"><meta property="og:url" content="//localhost:1313/">
-  <meta property="og:title" content="Cybercricetus&#39;s Page">
-  <meta property="og:description" content="👋 Welcome# This is cybercricetus!
-👨‍💻 About# 🎓 Master CS @ NYU Tandon 🔬 Preference: LLM, RL 📧 Mail me: xm2204@nyu.edu 📚 Navigation# …">
+<meta name="color-scheme" content="light dark"><meta property="og:url" content="//localhost:1313/cybercricetus.github.io">
+  <meta property="og:title" content="🐹 Home">
+  <meta property="og:description" content="Welcome back!!#">
   <meta property="og:locale" content="en">
-  <meta property="og:type" content="website">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="docs">
 
 
-  <meta itemprop="name" content="Cybercricetus&#39;s Page">
-  <meta itemprop="description" content="👋 Welcome# This is cybercricetus!
-👨‍💻 About# 🎓 Master CS @ NYU Tandon 🔬 Preference: LLM, RL 📧 Mail me: xm2204@nyu.edu 📚 Navigation# …">
-  <meta itemprop="wordCount" content="24">
+  <meta itemprop="name" content="🐹 Home">
+  <meta itemprop="description" content="Welcome back!!#">
+  <meta itemprop="wordCount" content="2">
 
-<title>Cybercricetus&#39;s Page | </title>
+<title>🐹 Home | </title>
 <link rel="icon" href="/favicon.png" >
 <link rel="manifest" href="/manifest.json">
-<link rel="canonical" href="//localhost:1313/">
+<link rel="canonical" href="//localhost:1313/cybercricetus.github.io">
 <link rel="stylesheet" href="/book.min.4d6d5ad3b0ae85d2a15b20ab217863f70db543e46314629e239ced759e674898.css" integrity="sha256-TW1a07CuhdKhWyCrIXhj9w21Q&#43;RjFGKeI5ztdZ5nSJg=" crossorigin="anonymous">
 
 
@@ -38,11 +34,10 @@ https://github.com/alex-shpak/hugo-book
   <script defer src="/en.search.min.02f00219f469c73c0d8bb9cb61b21c4164290c598df276f376148feb0fde4fca.js" integrity="sha256-AvACGfRpxzwNi7nLYbIcQWQpDFmN8nbzdhSP6w/eT8o=" crossorigin="anonymous"></script>
 
 
-<link rel="alternate" type="application/rss+xml" href="//localhost:1313/index.xml" title="" />
 
   
 </head>
-<body dir="ltr" class="book-kind-home book-type-docs">
+<body dir="ltr" class="book-kind-page book-type-docs">
   <input type="checkbox" class="hidden toggle" id="menu-control" />
   <input type="checkbox" class="hidden toggle" id="toc-control" />
   <main class="container flex">
@@ -89,7 +84,7 @@ https://github.com/alex-shpak/hugo-book
   
 
   
-    <a href="/cybercricetus.github.io" class="">
+    <a href="/cybercricetus.github.io" class="active">
       🐹 Home</a>
   
 
@@ -206,46 +201,21 @@ https://github.com/alex-shpak/hugo-book
     <img src="/icons/menu.svg" class="book-icon" alt="Menu" />
   </label>
 
-  <h3>Cybercricetus&#39;s Page</h3>
+  <h3>🐹 Home</h3>
 
   <label for="toc-control">
-    
-    <img src="/icons/toc.svg" class="book-icon" alt="Table of Contents" />
     
   </label>
 </div>
 
 
   
-  <aside class="hidden">
-    
-  
-<nav id="TableOfContents">
-  <ul>
-    <li><a href="#-about">👨‍💻 About</a></li>
-    <li><a href="#-navigation">📚 Navigation</a></li>
-  </ul>
-</nav>
-
-
-
-  </aside>
-  
  
       </header>
 
       
       
-  <article class="markdown book-article"><h1 id="-welcome">👋 Welcome<a class="anchor" href="#-welcome">#</a></h1>
-<p>This is cybercricetus!</p>
-<h2 id="-about">👨‍💻 About<a class="anchor" href="#-about">#</a></h2>
-<ul>
-<li>🎓 Master CS @ NYU Tandon</li>
-<li>🔬 Preference: LLM, RL</li>
-<li>📧 Mail me: <a href="mailto:xm2204@nyu.edu">xm2204@nyu.edu</a></li>
-</ul>
-<h2 id="-navigation">📚 Navigation<a class="anchor" href="#-navigation">#</a></h2>
-<p>&hellip;</p>
+  <article class="markdown book-article"><h1 id="welcome-back">Welcome back!!<a class="anchor" href="#welcome-back">#</a></h1>
 </article>
  
       
@@ -270,6 +240,20 @@ https://github.com/alex-shpak/hugo-book
 
   
   
+  
+  <div class="flex flex-wrap justify-between">
+    <span>
+    
+    </span>
+    <span>
+    
+      <a href="/docs/paper-review/" class="flex align-center">
+        <span>Paper Review</span>
+        <img src="/icons/forward.svg" class="book-icon" alt="Forward" />
+      </a>
+    
+    </span>
+  </div>
   
 
 
@@ -297,22 +281,6 @@ https://github.com/alex-shpak/hugo-book
     </div>
 
     
-  
-  <aside class="book-toc">
-    <div class="book-toc-content">
-      
-  
-<nav id="TableOfContents">
-  <ul>
-    <li><a href="#-about">👨‍💻 About</a></li>
-    <li><a href="#-navigation">📚 Navigation</a></li>
-  </ul>
-</nav>
-
-
-
-    </div>
-  </aside>
   
  
   </main>

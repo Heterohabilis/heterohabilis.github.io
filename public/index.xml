@@ -9,9 +9,9 @@
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🐹 Home</title>
-      <link>//localhost:1313/docs/home/</link>
+      <link>//localhost:1313/cybercricetus.github.io</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/docs/home/</guid>
+      <guid>//localhost:1313/cybercricetus.github.io</guid>
       <description>&lt;h1 id=&#34;welcome-back&#34;&gt;Welcome back!!&lt;a class=&#34;anchor&#34; href=&#34;#welcome-back&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;</description>
     </item>
     <item>
