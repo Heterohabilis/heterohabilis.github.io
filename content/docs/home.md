@@ -1,7 +1,7 @@
 +++
 title = "🐹 Home"
 weight = -1
-url = "cybercricetus.github.io"
+url = "/"
 +++
 
 # Welcome back!!
