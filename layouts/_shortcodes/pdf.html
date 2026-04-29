@@ -1,0 +1,27 @@
+{{- $src := .Get "src" -}}
+{{- $url := "" -}}
+
+{{/* 如果是 page bundle 里的资源,优先用 .Resources 查找 */}}
+{{- with .Page.Resources.GetMatch $src -}}
+  {{- $url = .RelPermalink -}}
+{{- else -}}
+  {{- $url = $src | relURL -}}
+{{- end -}}
+
+<div style="margin: 1.5rem 0;">
+  <object 
+    data="{{ $url }}" 
+    type="application/pdf" 
+    width="100%" 
+    height="{{ .Get "height" | default "800" }}"
+    style="border: 1px solid #ddd; border-radius: 4px;">
+    <p>
+      The browswer does not support PDFs. Please download the PDF to view it:
+      <a href="{{ $url }}" target="_blank">Click to download and view</a>
+    </p>
+  </object>
+  <p style="text-align: right; font-size: 0.85em; color: #888; margin-top: 0.5rem;">
+    📄 <a href="{{ $url }}" target="_blank">Open in new tab</a> · 
+    <a href="{{ $url }}" download>Download</a>
+  </p>
+</div>
