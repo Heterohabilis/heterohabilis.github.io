@@ -16,7 +16,7 @@ Notes mostly cluster around three areas:
 - 🎮 **Reinforcement learning** — classic RL and the LLM-flavored kind
 - 🪄 **Wildcards** — anything else that catches my eye
 
-## 🧭 How I write them
+## ✍️ How I write them
 
 Each post tries to answer three questions:
 
