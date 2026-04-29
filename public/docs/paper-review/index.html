@@ -8,22 +8,29 @@ https://github.com/alex-shpak/hugo-book
 
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="Paper Review# These are the paper review I have read.
+<meta name="description" content="📑 Paper Review# A reading log — papers I’ve read through, in roughly the order I bumped into them.
+🗂️ What’s here# Notes mostly cluster around three areas:
+🤖 LLMs &amp; agents — pretraining, RAG, post-training alignment (DPO / PPO / GRPO) 🎮 Reinforcement learning — classic RL and the LLM-flavored kind 🪄 Wildcards — anything else that catches my eye 🧭 How I write them# Each post tries to answer three questions:
 ">
 <meta name="theme-color" media="(prefers-color-scheme: light)" content="#ffffff">
 <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#2e3440">
 <meta name="color-scheme" content="light dark"><meta property="og:url" content="//localhost:1313/docs/paper-review/">
+  <meta property="og:site_name" content="Terry&#39;s Blog">
   <meta property="og:title" content="Paper Review">
-  <meta property="og:description" content="Paper Review# These are the paper review I have read.">
+  <meta property="og:description" content="📑 Paper Review# A reading log — papers I’ve read through, in roughly the order I bumped into them.
+🗂️ What’s here# Notes mostly cluster around three areas:
+🤖 LLMs &amp; agents — pretraining, RAG, post-training alignment (DPO / PPO / GRPO) 🎮 Reinforcement learning — classic RL and the LLM-flavored kind 🪄 Wildcards — anything else that catches my eye 🧭 How I write them# Each post tries to answer three questions:">
   <meta property="og:locale" content="en">
   <meta property="og:type" content="website">
 
 
   <meta itemprop="name" content="Paper Review">
-  <meta itemprop="description" content="Paper Review# These are the paper review I have read.">
-  <meta itemprop="wordCount" content="10">
+  <meta itemprop="description" content="📑 Paper Review# A reading log — papers I’ve read through, in roughly the order I bumped into them.
+🗂️ What’s here# Notes mostly cluster around three areas:
+🤖 LLMs &amp; agents — pretraining, RAG, post-training alignment (DPO / PPO / GRPO) 🎮 Reinforcement learning — classic RL and the LLM-flavored kind 🪄 Wildcards — anything else that catches my eye 🧭 How I write them# Each post tries to answer three questions:">
+  <meta itemprop="wordCount" content="147">
 
-<title>Paper Review | </title>
+<title>Paper Review | Terry&#39;s Blog</title>
 <link rel="icon" href="/favicon.png" >
 <link rel="manifest" href="/manifest.json">
 <link rel="canonical" href="//localhost:1313/docs/paper-review/">
@@ -31,24 +38,12 @@ https://github.com/alex-shpak/hugo-book
 
 
   <script defer src="/fuse.min.js"></script>
-  <script defer src="/en.search.min.6853b37501359ae176c84c6abb58c580b040cc9cc4c7785f377cbf38951313db.js" integrity="sha256-aFOzdQE1muF2yExqu1jFgLBAzJzEx3hfN3y/OJUTE9s=" crossorigin="anonymous"></script>
+  <script defer src="/en.search.min.043fd3500569bae6e0112aded164a698dbd95e14e04ca57a2280d6d7cae94a2a.js" integrity="sha256-BD/TUAVpuubgESre0WSmmNvZXhTgTKV6IoDW18rpSio=" crossorigin="anonymous"></script>
 
 
-<link rel="alternate" type="application/rss+xml" href="//localhost:1313/docs/paper-review/index.xml" title="" />
+<link rel="alternate" type="application/rss+xml" href="//localhost:1313/docs/paper-review/index.xml" title="Terry's Blog" />
 
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css">
-<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"></script>
-<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js"
-  onload="renderMathInElement(document.body, {
-    delimiters: [
-      {left: '$$', right: '$$', display: true},
-      {left: '$', right: '$', display: false},
-      {left: '\\[', right: '\\]', display: true},
-      {left: '\\(', right: '\\)', display: false}
-    ],
-    throwOnError: false
-  });"></script>
-
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🐹</text></svg>">
 </head>
 <body dir="ltr" class="book-kind-section book-type-docs">
   <input type="checkbox" class="hidden toggle" id="menu-control" />
@@ -60,7 +55,7 @@ https://github.com/alex-shpak/hugo-book
     
   <nav>
 <h2 class="book-brand">
-  <a class="flex align-center" href="/"><span></span>
+  <a class="flex align-center" href="/"><span>Terry&#39;s Blog</span>
   </a>
 </h2>
 
@@ -98,7 +93,7 @@ https://github.com/alex-shpak/hugo-book
 
   
     <a href="/" class="">
-      🐹 Terry&#39;s Blog</a>
+      Home 🏠</a>
   
 
         </li>
@@ -1632,18 +1627,50 @@ https://github.com/alex-shpak/hugo-book
 
   <label for="toc-control">
     
+    <img src="/icons/toc.svg" class="book-icon" alt="Table of Contents" />
+    
   </label>
 </div>
 
 
+  
+  <aside class="hidden">
+    
+  
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#-whats-here">🗂️ What&rsquo;s here</a></li>
+    <li><a href="#-how-i-write-them">🧭 How I write them</a></li>
+  </ul>
+</nav>
+
+
+
+  </aside>
   
  
       </header>
 
       
       
-  <article class="markdown book-article"><h1 id="paper-review">Paper Review<a class="anchor" href="#paper-review">#</a></h1>
-<p>These are the paper review I have read.</p>
+  <article class="markdown book-article"><h1 id="-paper-review">📑 <strong>Paper Review</strong><a class="anchor" href="#-paper-review">#</a></h1>
+<p>A reading log — papers I&rsquo;ve read through, in roughly the order I bumped into them.</p>
+<h2 id="-whats-here">🗂️ What&rsquo;s here<a class="anchor" href="#-whats-here">#</a></h2>
+<p>Notes mostly cluster around three areas:</p>
+<ul>
+<li>🤖 <strong>LLMs &amp; agents</strong> — pretraining, RAG, post-training alignment (DPO / PPO / GRPO)</li>
+<li>🎮 <strong>Reinforcement learning</strong> — classic RL and the LLM-flavored kind</li>
+<li>🪄 <strong>Wildcards</strong> — anything else that catches my eye</li>
+</ul>
+<h2 id="-how-i-write-them">🧭 How I write them<a class="anchor" href="#-how-i-write-them">#</a></h2>
+<p>Each post tries to answer three questions:</p>
+<ol>
+<li><strong>What problem</strong> is the paper solving?</li>
+<li><strong>What&rsquo;s the key trick</strong> that makes it work?</li>
+<li><strong>How efffective</strong> is the trick?</li>
+</ol>
+<p>P.S. These are closer to self-reading notes entries than tutorials — if I got something wrong, please poke me!</p>
+<p>P.S. Some notes were originally written on Lark, a platform that supports a Markdown format that has some differences to the standard version. To keep the original structure, I directly render the PDF for those entries.</p>
 </article>
  
       
@@ -1674,7 +1701,7 @@ https://github.com/alex-shpak/hugo-book
     
       <a href="/" class="flex align-center">
         <img src="/icons/backward.svg" class="book-icon" alt="Backward" />
-        <span>🐹 Terry&#39;s Blog</span>
+        <span>Home 🏠</span>
       </a>
     
     </span>
@@ -1715,10 +1742,39 @@ https://github.com/alex-shpak/hugo-book
 
     
   
+  <aside class="book-toc">
+    <div class="book-toc-content">
+      
+  
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#-whats-here">🗂️ What&rsquo;s here</a></li>
+    <li><a href="#-how-i-write-them">🧭 How I write them</a></li>
+  </ul>
+</nav>
+
+
+
+    </div>
+  </aside>
+  
  
   </main>
 
   
+<script src="https://cdn.jsdelivr.net/npm/medium-zoom@1.1.0/dist/medium-zoom.min.js"></script>
+<script>
+  mediumZoom('.markdown img:not(.no-zoom)', {
+    margin: 24,
+    background: 'rgba(0, 0, 0, 0.85)',
+    scrollOffset: 0
+  });
+</script>
+<style>
+  .markdown img:not(.no-zoom) { cursor: zoom-in; }
+  .medium-zoom-overlay,
+  .medium-zoom-image--opened { z-index: 999; }
+</style>
 </body>
 </html>
 

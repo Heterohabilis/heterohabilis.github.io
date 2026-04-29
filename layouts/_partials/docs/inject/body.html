@@ -1,0 +1,14 @@
+<!-- medium-zoom: click images to enlarge -->
+<script src="https://cdn.jsdelivr.net/npm/medium-zoom@1.1.0/dist/medium-zoom.min.js"></script>
+<script>
+  mediumZoom('.markdown img:not(.no-zoom)', {
+    margin: 24,
+    background: 'rgba(0, 0, 0, 0.85)',
+    scrollOffset: 0
+  });
+</script>
+<style>
+  .markdown img:not(.no-zoom) { cursor: zoom-in; }
+  .medium-zoom-overlay,
+  .medium-zoom-image--opened { z-index: 999; }
+</style>

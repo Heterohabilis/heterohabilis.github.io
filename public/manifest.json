@@ -1,6 +1,6 @@
 {
-  "name": "",
-  "short_name": "",
+  "name": "Terry's Blog",
+  "short_name": "Terry's Blog",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",

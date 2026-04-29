@@ -1,4 +1,4 @@
 baseURL = 'https://cybercricetus.github.io/'
 locale = 'en-us'
-title = 'My New Hugo Site'
+title = 'Terry's Blog'
 theme = 'hugo-book'
