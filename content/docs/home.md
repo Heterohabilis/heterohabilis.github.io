@@ -43,4 +43,4 @@ This is **Xingyu Mu** (穆星宇), you can call me **Terry Mu** if you believe *
 
 ## 🌱 Off the clock
 
-Historical linguistics · gym · hiking · reading · gaming
+Historical linguistics · gym · hiking · reading · gaming · recreational shooting · Photograph
