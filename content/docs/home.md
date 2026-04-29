@@ -4,7 +4,7 @@ weight = -1
 url = "/"
 +++
 
-# 👋 Welcome
+# 👋 **Welcome**
 
 This is **Xingyu Mu** (穆星宇), you can call me **Terry Mu** if you believe *x* /ɕ/ and *yu* /y/ (the umlaut-u, ü) are hard to pronounce; or just call me **Cybercricetus🐹**!
 
