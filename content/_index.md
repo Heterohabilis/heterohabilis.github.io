@@ -1,11 +1,12 @@
 +++
-title = "Cybercricetus's Page"
-type = "docs"
+title = "🐹 Terry's Blog"
+weight = -1
+url = "/"
 +++
 
 # 👋 Welcome
 
-This is cybercricetus!
+This is Cybercricetus!
 
 ## 👨‍💻 About
 * 🎓 Master CS @ NYU Tandon
@@ -13,4 +14,4 @@ This is cybercricetus!
 * 📧 Mail me: xm2204@nyu.edu
 
 ## 📚 Navigation
-...
+......
