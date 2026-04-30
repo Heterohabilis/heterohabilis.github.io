@@ -3,13 +3,13 @@ title = "Cricetus🐹"
 weight = 9999
 +++
 
-{{< figure src="./_ham.png" width="400" caption="**[Cyber]Cricetus** — myself, on a good day, perhaps..." >}}
+# **Cricetus and [Cyber]cricetus**
+> *People ask me this a lot, so here's the short version...*
 
 ---
 
 # What is a *cricetus*?
 
-People ask me this a lot, so here's the short version.
 
 ***Cricetus*** is the Latin genus name of the [**European hamster** (*Cricetus cricetus*)](https://en.wikipedia.org/wiki/European_hamster) — the OG hamster, much bigger and grumpier than the chubby pet hamsters you've seen on the Internet. They live in burrows across the steppes of Eurasia, hoard absurd amounts of grain for winter, and have a reputation for fighting back against animals many times their size.
 
@@ -53,6 +53,8 @@ My real name is **穆星宇 / Xingyu Mu**, which is fun in its own way:
 - The **yu** is **/y/**, a close front rounded vowel — say *ee* with rounded lips, like the German *ü* or French *u*.
 
 If you believe `x` /ɕ/ and `yu` /y/ are hard to pronounce — you are not alone. This is exactly why **Terry** exists as a fallback.
+
+{{< figure src="./_ham.png" width="400" caption="**[Cyber]Cricetus** — myself, on a good day, perhaps..." >}}
 
 ---
 
