@@ -22,8 +22,9 @@ This is **Xingyu Mu** (穆星宇), you can call me **Terry Mu** if you believe *
 ## 📫 Find me at
 
 - 📧 Email — Work: `xm2204[at]nyu[dot]edu`; Personal: `mutong221[at]gmail[dot]com`
-- 🐙 GitHub — [Cybercricetus](https://github.com/Cybercricetus)
-- 🔗 LinkedIn — [Xingyu Mu](https://linkedin.com/in/xyum)
+- GitHub — [Cybercricetus](https://github.com/Cybercricetus)
+- LinkedIn — [Xingyu Mu](https://linkedin.com/in/xyum)
+- Zhihu — [Cybercricetus](https://www.zhihu.com/people/sansde-yi-gen-gu)
 
 ## 💼 Recently
 
