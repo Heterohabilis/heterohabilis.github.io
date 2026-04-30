@@ -1,10 +1,10 @@
 +++
-title = "Machine Learning Notes"
+title = "Notes"
 weight = 1
 bookCollapseSection = true
 +++
 
-# 📑 **Machine Learning Notes**
+# 📑 **Notes**
 
 These are the notes I have written during the learning of LLM and other deep generative models. The source includes textbooks, open courses, and blogs I found on the Internet.
 
