@@ -3,8 +3,6 @@ title = "Cricetus🐹"
 weight = 9999
 +++
 
----
-
 {{< figure src="./_ham.png" width="400" caption="**[Cyber]Cricetus** — myself, on a good day, perhaps..." >}}
 
 ---
