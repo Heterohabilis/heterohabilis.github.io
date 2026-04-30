@@ -24,6 +24,6 @@ Each post tries to answer three questions:
 2. **What's the key trick** that makes it work?
 3. **How efffective** is the trick?
 
-P.S. These are closer to self-reading notes entries than tutorials — if I got something wrong, please poke me!
+>P.S. These are closer to self-reading notes entries than tutorials — if I got something wrong, please poke me!
 
-P.S. Some notes were originally written on Lark, a platform that supports a Markdown format that has some differences to the standard version. To keep the original structure, I directly render the PDF for those entries.
+>P.S. Some notes were originally written on Lark, a platform that supports a Markdown format that has some differences to the standard version. To keep the original structure, I directly render the PDF for those entries.
