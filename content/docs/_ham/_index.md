@@ -3,7 +3,11 @@ title = "Cricetus🐹"
 weight = 9999
 +++
 
+---
+
 {{< figure src="./_ham.png" width="400" caption="**[Cyber]Cricetus** — myself, on a good day, perhaps..." >}}
+
+---
 
 # What is a *cricetus*?
 
@@ -15,9 +19,13 @@ People ask me this a lot, so here's the short version.
 
 The Latin word itself probably traces back to a much older Slavic root meaning *"to crouch"* or *"to gnaw"* — fitting for an animal whose entire lifestyle is *crouch in burrow → gnaw on grain → repeat*.
 
+---
+
 # So why "Cybercricetus"?
 
 Because I do roughly the same thing, except the burrow is a Linux terminal and the grain is GPU hours. **Cyber** + **cricetus** = a hamster that hoards code instead of seeds.
+
+---
 
 # How do you pronounce it?
 
@@ -33,6 +41,8 @@ This trips people up, so here's the breakdown:
 If IPA looks like cuneiform to you, just say **"sigh-ber-cri-SEE-tus"** and you're 95% there.
 
 And if even *that* is a mouthful — **just call me Terry**. 🐹
+
+---
 
 # Bonus: my actual name
 
