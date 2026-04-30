@@ -16,9 +16,7 @@ People ask me this a lot, so here's the short version.
 {{< figure src="./_cricetus.jpg" width="400" caption="A real *Cricetus cricetus*. Not me, but spiritually adjacent. *Courtesy of* [*Wikipedia*](https://en.wikipedia.org/wiki/European_hamster#/media/File:European_hamster_(Cricetus_cricetus)_Meidling_2.jpg)." >}}
 
 And in case a still photo doesn't do them justice — here's one in action:
-
 {{< youtube id="Gk-QNmQZj3M" title="Cricetus cricetus in the wild" >}}
-
 The Latin word itself probably traces back to a much older Slavic root meaning *"to crouch"* or *"to gnaw"* — fitting for an animal whose entire lifestyle is *crouch in burrow → gnaw on grain → repeat*.
 
 ---
