@@ -11,7 +11,7 @@ People ask me this a lot, so here's the short version.
 
 ***Cricetus*** is the Latin genus name of the [**European hamster** (*Cricetus cricetus*)](https://en.wikipedia.org/wiki/European_hamster) — the OG hamster, much bigger and grumpier than the chubby pet hamsters you've seen on the Internet. They live in burrows across the steppes of Eurasia, hoard absurd amounts of grain for winter, and have a reputation for fighting back against animals many times their size.
 
-{{< figure src="./_cricetus.jpg" width="400" caption="A real *Cricetus cricetus*. Not me, but spiritually adjacent. From [Wikipedia](https://en.wikipedia.org/wiki/European_hamster#/media/File:European_hamster_(Cricetus_cricetus)_Meidling_2.jpg)." >}}
+{{< figure src="./_cricetus.jpg" width="400" caption="A real *Cricetus cricetus*. Not me, but spiritually adjacent. *Courtesy of* [*Wikipedia*](https://en.wikipedia.org/wiki/European_hamster#/media/File:European_hamster_(Cricetus_cricetus)_Meidling_2.jpg)." >}}
 
 The Latin word itself probably traces back to a much older Slavic root meaning *"to crouch"* or *"to gnaw"* — fitting for an animal whose entire lifestyle is *crouch in burrow → gnaw on grain → repeat*.
 
