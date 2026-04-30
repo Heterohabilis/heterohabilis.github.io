@@ -8,6 +8,8 @@ url = "/"
 
 This is **Xingyu Mu** (穆星宇), you can call me **Terry Mu** if you believe *x* /ɕ/ and *yu* /y/ (the umlaut-u, ü) are hard to pronounce; or just call me **Cybercricetus🐹**!
 
+--
+
 ## 👨‍💻 About
 
 - 🎓 **M.S. in Computer Science** @ NYU Tandon (2025 – 2027) · GPA 4.0 / 4.0
