@@ -1,2 +1,5 @@
 theme = "hugo-book"
 title = "🏠 Terry's Blog"
+
+[markup.goldmark.renderer]
+  unsafe = true
